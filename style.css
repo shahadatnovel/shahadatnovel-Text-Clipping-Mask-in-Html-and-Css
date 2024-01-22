@@ -1,0 +1,17 @@
+bddy{
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+.hi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13em;
+    margin: 250px;
+    text-align: center;
+    text-transform: uppercase;
+    background: url("ki.webp");
+    background-size: contain;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color:transparent;
+}
